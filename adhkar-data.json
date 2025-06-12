@@ -3,7 +3,7 @@
         {
             "id": "istighfar-3x",
             "text": "أَسْتَغْفِرُ اللَّهَ",
-            "translation": "داوای لێخۆشبوون ئەکەم لە خوا (اللَّه)",
+            "translation": "داوای لێخۆشبوون ئەکەم لە اللَّه",
             "taps": 3,
             "reference": "مسلم",
             "audio": "audio/astaghfirullah.mp3"
@@ -48,7 +48,7 @@
         {
             "id": "tasbeeh-33x",
             "text": "سُبْحَانَ اللَّهِ",
-            "translation": "پاکی و بێکەموکوڕی بۆ خوا (اللَّه)",
+            "translation": "پاکی و بێکەموکوڕی بۆ اللَّه",
             "taps": 33,
             "reference": "مسلم",
             "audio": "audio/tasbeeh.mp3"
@@ -56,7 +56,7 @@
         {
             "id": "tahmeed-33x",
             "text": "الْحَمْدُ لِلَّهِ",
-            "translation": "سوپاس بۆ خوا",
+            "translation": "سوپاس بۆ اللَّه",
             "taps": 33,
             "reference": "مسلم",
             "audio": "audio/tahmeed.mp3"
@@ -64,7 +64,7 @@
         {
             "id": "takbeer-33x",
             "text": "اَللّٰهُ أَكْبَرُ",
-            "translation": "خوا (اللَّه) گەورەترینە",
+            "translation": "اللَّه گەورەترینە",
             "taps": 33,
             "reference": "مسلم",
             "audio": "audio/takbeer.mp3"
@@ -249,7 +249,7 @@
         {
             "id": "subhanallah-wa-bihamdihi",
             "text": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ",
-            "translation": "پاکی و بێکەموکوڕی و ستایش بۆ خوا (اللَّه)",
+            "translation": "پاکی و بێکەموکوڕی و ستایش بۆ اللَّه",
             "taps": 100,
             "reference": "البخاري",
             "audio": "audio/subhanallah.mp3"
@@ -257,7 +257,7 @@
         {
             "id": "astaghfirullah-wa-atubu-ilaih",
             "text": "أَسْتَغْفِرُ اللّٰهَ وَأَتُوْبُ إِلَيْهِ",
-            "translation": "داوای لێخۆشبوون ئەکەم لە خوا (اللَّه) و ڕووئەکەمە ئەو لە تەوبەکردندا",
+            "translation": "داوای لێخۆشبوون ئەکەم لە اللَّه و ڕووئەکەمە ئەو لە تەوبەکردندا",
             "taps": 100,
             "reference": "البخاري",
             "audio": "audio/astaghfirullahwaatubwelaihi.mp3"
