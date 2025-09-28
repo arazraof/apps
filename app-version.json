@@ -1,8 +1,4 @@
 {
-  "latest": "2.4",
-  "updateUrl": {
-    "android": "https://play.google.com/store/apps/details?id=com.zikrakanwkatakanibang.app",
-    "ios": "https://apps.apple.com/app/id6748661393",
-    "web": "https://kodkite.com/app/zbapp"
-  }
+  "version": "2.4",
+  "message": "وەشانی نوێی ئەپەکە دەرچووە! تکایە ئەپەکە نوێ بکرەوە."
 }
