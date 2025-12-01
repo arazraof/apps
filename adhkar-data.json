@@ -677,7 +677,7 @@
             "translation": "خوایە پەنائەگرم بە تۆ لە دڵەڕاوکێ و پەژارە و لە بێتوانایی و تەممەڵی و لە ترسنۆکی و چاوچنۆکی و لە زۆریی قەرز و لە دەسەڵاتی کەسانی ستەمکار و نەزان",
             "taps": 1,
             "reference": "البخاري",
-            "audio": "audio/refugedua.mp3",
+            "audio": "audio/nzaidltangi.mp3",
             "category": "miscellaneous"
         },
         {
@@ -687,7 +687,7 @@
             "translation": "ئەی پەروەردگار دڵەکانمان لامەدە دوایئەوەی ڕێنموویتکردین، لە بەخششی تایبەتیی خۆت بەهرەوەرمانبکە، بەڕاستی تۆ بەخشەریت",
             "taps": 1,
             "reference": "سورەتی آل عمران: ٨",
-            "audio": "audio/refugedua.mp3",
+            "audio": "audio/xoragridua.mp3",
             "category": "miscellaneous"
         },
         {
@@ -713,6 +713,7 @@
     ],
     "favorites": []
 }
+
 
 
 
