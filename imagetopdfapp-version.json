@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "min_required_version": "1.0.0",
+  "version": "12.0.0",
+  "min_required_version": "12.0.0",
   "force_update": false,
   "message": "New version available."
 }
