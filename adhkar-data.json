@@ -1,11 +1,11 @@
 {
     "afterPrayers": [
         {
-            "id": "astaghfirullah",
+            "id": "astaghfirullahaftersalah",
             "text": "أَسْتَغْفِرُ اللَّهَ",
             "taps": 3,
             "reference": "مسلم",
-            "audio": "audio/astaghfirullah.mp3",
+            "audio": "audio/astaghfirullahaftersalah.mp3",
             "translation-ck": "داوای لێخۆشبوون ئەکەم لە ﷲ",
             "translation-en": ""
         },
