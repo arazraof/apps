@@ -784,6 +784,17 @@
             "category": "miscellaneous",
             "translation-ck": "ئەی پەروەردگار چاکەمان پێ ببەخشە لە دنیادا و لە ڕۆژی دواییشدا هەر چاکەمان پێ ببەخشە و بمانپارێزە لە سزای ئاگری دۆزەخ",
             "translation-en": ""
+        },
+        {
+            "id": "rabbanaatinafidunya",
+            "title": "نزای چاکە بۆ دنیا و دواڕۆژ",
+            "text": "اللهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ فَإِنَّهُ لَا يَمْلِكُهَا إِلَّا أَنْتَ",
+            "taps": 1,
+            "reference": "عبد الله بن مسعود",
+            "audio": "audio/allahumainiasalukaminfazlikawarahmatikfainahwlayamlikuhaillaand.mp3",
+            "category": "miscellaneous",
+            "translation-ck": "خوایە داوای بەخشش و میهرەبانیت لێ ئەکەم، چونکە بەڕاستی کەس خاوەنیان نییە جگە لە تۆ",
+            "translation-en": ""
         }
     ],
     "favorites": []
