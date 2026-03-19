@@ -646,7 +646,7 @@
             "title": "سُبْحَانَ اللَّهِ",
             "taps": 33,
             "reference": "البخاري ومسلم",
-            "audio": "audio/tasbeeh.mp3",
+            "audio": "audio/tasbeeh-33x.mp3",
             "category": "sleeping",
             "translation-ck": "پاکی و بێکەموکوڕی بۆ خوا (ﷲ)",
             "translation-en": ""
@@ -657,7 +657,7 @@
             "title": "الْحَمْدُ لِلَّهِ",
             "taps": 33,
             "reference": "البخاري ومسلم",
-            "audio": "audio/tahmeed.mp3",
+            "audio": "audio/tahmeed-33x.mp3",
             "category": "sleeping",
             "translation-ck": "سوپاس بۆ خوا",
             "translation-en": ""
@@ -668,7 +668,7 @@
             "title": "اللَّهُ أَكْبَرُ",
             "taps": 34,
             "reference": "البخاري ومسلم",
-            "audio": "audio/takbeer.mp3",
+            "audio": "audio/tahmeed-33x.mp3",
             "category": "sleeping",
             "translation-ck": "خوا (ﷲ) گەورەترینە",
             "translation-en": ""
