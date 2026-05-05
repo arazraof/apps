@@ -786,6 +786,17 @@
             "translation-en": ""
         },
         {
+            "id": "allahumaaghfirlidhanbikulla",
+            "title": "نزای سوجدە لە نوێژدا",
+            "text": "اللَّهمَّ اغفِر لي ذنبي كُلَّهُ، دِقَّهُ وجِلَّهُ، وأوَّلَهُ وآخرَهُ، وعلانيتَهُ وسِرَّهُ",
+            "taps": 1,
+            "reference": "مسلم",
+            "audio": "audio/allahumaaghfirlidhanbikulla.mp3",
+            "category": "variousduas",
+            "translation-ck": "خوایە لە هەموو گوناهەکانم خۆشبە؛ ورد و درشتیان، سەرەتا و کۆتاییان، ئاشکرا و پەنهانیان.",
+            "translation-en": "O Allah! Forgive all my sins, the small and the great, first and the last, the open and the secret"
+        },
+        {
             "id": "allahumainiasalukaminfazlikawarahmatikfainahwlayamlikuhaillaand",
             "title": "نزای بەخشش و میهرەبانی",
             "text": "اللهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ فَإِنَّهُ لَا يَمْلِكُهَا إِلَّا أَنْتَ",
@@ -800,7 +811,7 @@
     "variousadhkars": [
         {
             "id": "sajadawajhililladhixalaqahu",
-            "title": "زیکری سوجدە لەنێو نوێژدا",
+            "title": "زیکری سوجدە لە نوێژدا",
             "text": "سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ، وَبَصَرَهُ، بِحَوْلِهِ وَقُوَّتِهِ",
             "taps": 1,
             "reference": "أحمد وأبو داود",
